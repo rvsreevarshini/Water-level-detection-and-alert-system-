@@ -4,7 +4,7 @@ An Arduino-based Water Level Detection and Alert System using an HC-SR04 ultraso
 - Arduino Uno  
 - HC-SR04 Ultrasonic Sensor  
 - Buzzer  
-- LED + 220Ω Resistor  
+- LED + 1kΩ Resistor  
 - Jumper Wires  
 ## 💻 Code
 See the Arduino code in [`water_level.ino`](water_level_detection_and_alert_system.ino).
